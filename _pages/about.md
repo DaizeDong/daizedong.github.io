@@ -30,18 +30,18 @@ I am a researcher in deep learning with a primary focus on network efficiency. M
 
 ## Publications
 
-1. Zhangyang Gao\*, **Daize Dong**\*, Cheng Tan, Jun Xia, Bozhen Hu, Stan Z. Li, ***A Graph is Worth K Words: Euclideanizing Graph using Pure Transformer***, ICML 2024. [[Paper](https://arxiv.org/abs/2402.02464)]
-2. Jiacheng Ruan, Jingsheng Gao, Mingye Xie, **Daize Dong**, Suncheng Xiang, Ting Liu, Yuzhuo Fu, ***iDAT: inverse Distillation Adapter-Tuning***, ICME 2024 (Oral). [[Paper](https://arxiv.org/abs/2403.15750)]
-3. Shwai He, Liang Ding, **Daize Dong**, Boan Liu, Fuqiang Yu, Dacheng Tao, ***PAD-Net: An Efficient Framework for Dynamic Networks***, ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.803.pdf)]
-3. Shwai He, Liang Ding, **Daize Dong**, Miao Zhang, Dacheng Tao, ***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***, EMNLP 2022. [[Paper](https://aclanthology.org/2022.findings-emnlp.160.pdf)]
-4. Shwai He, Chenbo Jiang, **Daize Dong**, Liang Ding, ***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***, WACV 2023. [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf)]
+1. Zhangyang Gao\*, **Daize Dong**\*, Cheng Tan, Jun Xia, Bozhen Hu, Stan Z. Li, A Graph is Worth K Words: Euclideanizing Graph using Pure Transformer, ICML 2024. [[Paper](https://arxiv.org/abs/2402.02464)]
+2. Jiacheng Ruan, Jingsheng Gao, Mingye Xie, **Daize Dong**, Suncheng Xiang, Ting Liu, Yuzhuo Fu, iDAT: inverse Distillation Adapter-Tuning, ICME 2024 (Oral). [[Paper](https://arxiv.org/abs/2403.15750)]
+3. Shwai He, Liang Ding, **Daize Dong**, Boan Liu, Fuqiang Yu, Dacheng Tao, PAD-Net: An Efficient Framework for Dynamic Networks, ACL 2023. [[Paper](https://aclanthology.org/2023.acl-long.803.pdf)]
+3. Shwai He, Liang Ding, **Daize Dong**, Miao Zhang, Dacheng Tao, SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters, EMNLP 2022. [[Paper](https://aclanthology.org/2022.findings-emnlp.160.pdf)]
+4. Shwai He, Chenbo Jiang, **Daize Dong**, Liang Ding, SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution, WACV 2023. [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf)]
 
 
 
 ## Projects
 
-1. Tong Zhu, Xiaoye Qu, **Daize Dong**, Jiacheng Ruan, Jingqi Tong, Conghui He, Yu Cheng, ***LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training***, EMNLP 2024. [[Code](https://github.com/pjlab-sys4nlp/llama-moe)] [[Paper](https://arxiv.org/abs/2406.16554)]
-2. Xiaoye Qu, **Daize Dong**, Xuyang Hu, Tong Zhu, Weigao Sun, Yu Cheng, ***LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training**. [[Code](https://github.com/OpenSparseLLMs/LLaMA-MoE-v2)] [[Paper](https://arxiv.org/abs/2411.15708)]
+1. Tong Zhu, Xiaoye Qu, **Daize Dong**, Jiacheng Ruan, Jingqi Tong, Conghui He, Yu Cheng, LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training, EMNLP 2024. [[Code](https://github.com/pjlab-sys4nlp/llama-moe)] [[Paper](https://arxiv.org/abs/2406.16554)]
+2. Xiaoye Qu, **Daize Dong**, Xuyang Hu, Tong Zhu, Weigao Sun, Yu Cheng, LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training**. [[Code](https://github.com/OpenSparseLLMs/LLaMA-MoE-v2)] [[Paper](https://arxiv.org/abs/2411.15708)]
 
 
 [//]: # (## Service)
