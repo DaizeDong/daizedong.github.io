@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Daize Dong"
   pronouns         : # example: "she/her"
-  bio              : ""
-  location         : ""
+  bio              : # ""
+  location         : # ""
   employer         : # Institution Name
   uri              : # URL
   email            : "dzdong2019@gmail.com"
