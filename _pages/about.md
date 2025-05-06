@@ -19,6 +19,7 @@ My research focuses on improving the efficiency of neural networks across algori
 
 ## News
 
+- [2025/04] Will join [Rutgers University, New Brunswick](https://www.rutgers.edu/new-brunswick) as a Ph.D. student!
 - [2024/11] Open-sourced project [LLaMA-MoE v2](https://github.com/OpenSparseLLMs/LLaMA-MoE-v2) is released!
 - [2024/09] One paper ([LLaMA-MoE](https://arxiv.org/abs/2406.16554)) is accepted by [EMNLP 2024](https://2024.emnlp.org/).
 - [2024/05] One paper ([GraphsGPT](https://arxiv.org/abs/2402.02464)) is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
