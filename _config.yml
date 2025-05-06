@@ -13,7 +13,7 @@ title                    : "Daize Dong (董岱泽)"
 title_separator          : "-"
 name                     : &name "Daize Dong"
 description              : &description "personal description"
-url                      : https://daizedong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://daizedong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daizedong.github.io"
 
@@ -32,6 +32,7 @@ author:
   email            : "dzdong2019@gmail.com"
 
   # Academic websites
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=WESZ8YkAAAAJ"
   impactstory      : # URL
