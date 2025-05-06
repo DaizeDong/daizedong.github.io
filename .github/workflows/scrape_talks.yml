@@ -5,6 +5,7 @@ on:
     paths:
       - 'talks/**'
       - 'talkmap.ipynb'
+  workflow_dispatch:
 
 jobs:
   build:

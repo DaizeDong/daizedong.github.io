@@ -3,17 +3,19 @@ permalink: /
 title: "Biography"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a researcher in deep learning with a primary focus on network efficiency. My research interests span the following areas:
+[//]: # (I received my B.E. degree in Computer Science from [UESTC]&#40;https://en.uestc.edu.cn/&#41; in 2023.)
 
-1. Efficient Structure: Mixture of Experts, Sparse Autoencoders.
-2. Network Compression: Network Pruning, Quantization, Distillation.
-3. System-level Optimization: Efficient Training, Inference Acceleration, LLM Deployment.
+I am an incoming Ph.D. student in Computer Science at [Rutgers University, New Brunswick](https://www.rutgers.edu/new-brunswick), advised by [Prof. Hongyi Wang](https://hwang595.github.io/).
+My research focuses on improving the efficiency of neural networks across algorithmic and system levels. Specifically, I am interested in the following areas:
 
+1. Conditional Computation: Mixture of Experts, Sparse Activation Models
+2. Model Compression: Pruning, Quantization, Knowledge Distillation
+3. System Optimization: Accelerated Training, Low-Latency Inference, Efficient Kernel Design
 
 ## News
 
@@ -26,8 +28,6 @@ I am a researcher in deep learning with a primary focus on network efficiency. M
 - [2022/10] One paper ([SparseAdapter](https://aclanthology.org/2022.findings-emnlp.160.pdf)) is accepted by [EMNLP 2022](https://2022.emnlp.org/).
 - [2022/08] One paper ([SD-Conv](https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf)) is accepted by [WACV 2023](https://wacv2023.thecvf.com/).
 
-
-
 ## Publications
 
 1. Zhangyang Gao\*, **Daize Dong**\*, Cheng Tan, Jun Xia, Bozhen Hu, Stan Z. Li, A Graph is Worth K Words: Euclideanizing Graph using Pure Transformer, ICML 2024. [[Paper](https://arxiv.org/abs/2402.02464)]
@@ -36,17 +36,15 @@ I am a researcher in deep learning with a primary focus on network efficiency. M
 3. Shwai He, Liang Ding, **Daize Dong**, Miao Zhang, Dacheng Tao, SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters, EMNLP 2022. [[Paper](https://aclanthology.org/2022.findings-emnlp.160.pdf)]
 4. Shwai He, Chenbo Jiang, **Daize Dong**, Liang Ding, SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution, WACV 2023. [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf)]
 
-
-
 ## Projects
 
 1. Tong Zhu, Xiaoye Qu, **Daize Dong**, Jiacheng Ruan, Jingqi Tong, Conghui He, Yu Cheng, LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training, EMNLP 2024. [[Code](https://github.com/pjlab-sys4nlp/llama-moe)] [[Paper](https://arxiv.org/abs/2406.16554)]
 2. Xiaoye Qu, **Daize Dong**, Xuyang Hu, Tong Zhu, Weigao Sun, Yu Cheng, LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training**. [[Code](https://github.com/OpenSparseLLMs/LLaMA-MoE-v2)] [[Paper](https://arxiv.org/abs/2411.15708)]
 
-
 [//]: # (## Service)
 
 [//]: # ()
+
 [//]: # (### Reviewer)
 
 [//]: # (- ACL: 2024, 2025)
