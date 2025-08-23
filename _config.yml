@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Daize Dong"
   pronouns         : # example: "she/her"
-  bio              : "Incoming PhD student in Computer Science at Rutgers University, New Brunswick."
-  location         : # ""
-  employer         : # Institution Name
+  bio              : "First-year Ph.D. student in CS."
+  location         : "Piscataway, NJ"
+  employer         : "Rutgers University" # Institution Name
   uri              : # URL
   email            : "dzdong2019@gmail.com"
 

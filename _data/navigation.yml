@@ -8,8 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-#   - title: "Publications"
-#     url: /publications/
+   - title: "Work Experiences"
+     url: /experiences/
+
+   - title: "Publications"
+     url: /publications/
+
+   - title: "Projects"
+     url: /projects/
 
 #   - title: "Talks"
 #     url: /talks/
@@ -23,9 +29,9 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-#   - title: "CV"
-#     url: /cv/
-    
+   - title: "CV"
+     url: /files/cv/_Official__Daize_Dong_s_Curriculum_Vitae_20250823.pdf
+
 #   - title: "CV"
 #     url: /cv-json/
 
