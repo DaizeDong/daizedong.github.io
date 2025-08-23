@@ -15,7 +15,7 @@ My research focuses on improving the efficiency of neural networks across algori
 2. Model Compression: Pruning, Quantization.
 3. High-Performance Computation: System Optimization, Efficient Kernels.
 
-## News
+### News
 
 - [2025/04] Will join [Rutgers University, New Brunswick](https://www.rutgers.edu/new-brunswick) as a Ph.D. student!
 
