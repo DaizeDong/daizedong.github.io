@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
@@ -18,10 +18,12 @@ You can also find more of my projects on my [GitHub Page](https://github.com/Dai
 
 ## Other Stuff
 
-* **[ArXiv Paper Assistant](https://github.com/DaizeDong/ChatGPT-ArXiv-Paper-Assistant)**
+* **[ChatGPT ArXiv Paper Assistant](https://github.com/DaizeDong/ChatGPT-ArXiv-Paper-Assistant)**
 
   A ChatGPT/Gemini/DeepSeek based personalized arXiv paper assistant bot for automatic paper filtering.
 
 * **[Easier PS and SoP](https://github.com/DaizeDong/Easier-PS-and-SoP)**
 
   A LaTeX template for writing Personal Statements (PS) and Statements of Purpose (SoP) for graduate school applications.
+
+And more...
