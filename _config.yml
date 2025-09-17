@@ -8,12 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Daize Dong (董岱泽)"
 title_separator          : "-"
 name                     : &name "Daize Dong"
 description              : &description "personal description"
 url                      : https://daizedong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daizedong.github.io"
 
@@ -25,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Daize Dong"
   pronouns         : # example: "she/her"
-  bio              : "First-year Ph.D. student in CS."
+  bio              : "First-year Ph.D. student"
   location         : "Piscataway, NJ"
   employer         : "Rutgers University" # Institution Name
   uri              : # URL
@@ -35,6 +36,7 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=WESZ8YkAAAAJ"
+  inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # "https://orcid.org/0000-0003-4633-0382"
   semantic         : # URL
@@ -51,6 +53,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
+  artstation       : # Username
   bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
@@ -86,7 +89,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -137,7 +140,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  # Social media default site image
+og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
