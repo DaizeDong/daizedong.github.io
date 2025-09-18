@@ -10,17 +10,13 @@ You can find more of my projects on my [GitHub Page](https://github.com/DaizeDon
 
 * [**LLaMA-MoE**: Building Mixture-of-Experts from LLaMA with Continual Pre-training](https://github.com/pjlab-sys4nlp/llama-moe)
 
-  A series of open-sourced Mixture-of-Expert (MoE) models based on [LLaMA 2](https://github.com/facebookresearch/llama) and [SlimPajama](https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama).
-
-  Published on EMNLP 2024. [\[Paper Link\]](https://arxiv.org/abs/2406.16554)
+  A series of open-sourced Mixture-of-Expert (MoE) models based on LLaMA 2 and SlimPajama. Published on EMNLP 2024. [\[Paper\]](https://arxiv.org/abs/2406.16554)
 
 [//]: # (Tong Zhu, Xiaoye Qu, **Daize Dong**, Jiacheng Ruan, Jingqi Tong, Conghui He, Yu Cheng, )
 
-* [**LLaMA-MoE v2**: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training.](https://github.com/OpenSparseLLMs/LLaMA-MoE-v2)
+* [**LLaMA-MoE v2**: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training](https://github.com/OpenSparseLLMs/LLaMA-MoE-v2)
 
-  A series of open-sourced Mixture-of-Expert (MoE) models based on [LLaMA 3](https://github.com/facebookresearch/llama).
-
-  Paper available on arXiv. [\[Paper Link\]](https://arxiv.org/abs/2411.15708)
+  A series of open-sourced Mixture-of-Expert (MoE) models based on LLaMA 3. Paper available on arXiv. [\[Paper\]](https://arxiv.org/abs/2411.15708)
 
 [//]: # (Xiaoye Qu, **Daize Dong**, Xuyang Hu, Tong Zhu, Weigao Sun, Yu Cheng)
 
@@ -33,5 +29,3 @@ You can find more of my projects on my [GitHub Page](https://github.com/DaizeDon
 * [**Easier PS and SoP**](https://github.com/DaizeDong/Easier-PS-and-SoP)
 
   A LaTeX template for writing Personal Statements (PS) and Statements of Purpose (SoP) for graduate school applications.
-
-And more on GitHub...
