@@ -37,3 +37,10 @@ main:
 
 #  - title: "Guide"
 #    url: /markdown/
+
+   - title: '<span style="display:inline-flex;align-items:center;gap:.4em;padding:.2em .6em;border:1px solid currentColor;border-radius:999px;white-space:nowrap;">
+               <img src="/images/arxiv/daily.svg" alt="daily" style="height:1em;vertical-align:-0.15em">
+               <img src="/images/arxiv/arxiv-logo.svg" alt="arXiv" style="height:1em;vertical-align:-0.15em">
+             </span>'
+     url: "/ChatGPT-ArXiv-Paper-Assistant/"
+     description: "Daily · arXiv"
