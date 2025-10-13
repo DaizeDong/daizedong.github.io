@@ -6,7 +6,7 @@ author_profile: true
 
 [//]: # (* **Zhipu AI**, Junior Researcher, _Sep. 2024 – Jun. 2025_)
 
-[//]: # (  Mixture of Experts, Large-scale LLM Pretraining)
+[//]: # (  Mixture of Experts, LLM Pretraining)
 
 * **Shanghai Artificial Intelligence Laboratory**, Research Assistant, _Jul. 2023 – Aug. 2024_
 
