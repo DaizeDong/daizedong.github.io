@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Daize Dong (董岱泽)"
+title                    : "Daize Dong"
 title_separator          : "-"
 name                     : &name "Daize Dong"
 description              : &description "personal description"
