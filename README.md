@@ -37,7 +37,7 @@ When you are initially working on your website, it is very useful to be able to 
     ```bash
     sudo apt update && sudo apt upgrade -y
     ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
+    then try running `sudo apt install ruby-dev ruby-bundler nodejs` again.
 
     On MacOS the commands are:
     ```bash
