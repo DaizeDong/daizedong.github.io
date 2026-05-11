@@ -6,4 +6,4 @@ Bug reports and feature requests to the template  should be [submitted via GitHu
 1. Create a branch off of master and give it a meaningful name (e.g. `my-new-feature`).
 1. Open a pull request on GitHub and describe the feature or fix.
 
-Please remember that this repository is intended to remain an easy to use, generic, and ready-to-fork template that demonstrates the features of Academic Pages, so extremely narrowly foucsed features are likley to be rejected. Futhermore, some mild LLM / angentic AI checks are in place to ensure that contrubtions are submitted by humans. 
+Please remember that this repository is intended to remain an easy to use, generic, and ready-to-fork template that demonstrates the features of Academic Pages, so extremely narrowly foucsed features are likley to be rejected. Futhermore, some mild LLM / Agentic AI checks are in place to ensure that contrubtions are submitted by humans. 
