@@ -10,16 +10,16 @@
   float: left;
   margin-left: 0;
   margin-right: 0;
+  margin-top: 3em;
   width: 100%;
   clear: both;
 
-  /* sticky footer fix start */
-  position: absolute;
-  bottom: 0em;
+  /* keep footer in normal document flow so custom widgets do not overlap content */
   height: auto;
-  /* sticky footer fix end */
 
-  margin-top: 3em;
+  /* keep the footer on the bottom of the page */
+  position: fixed;
+  bottom: 0;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
