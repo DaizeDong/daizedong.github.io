@@ -4,6 +4,10 @@ permalink: /experiences/
 author_profile: true
 ---
 
+* **AMD**, Research Intern, _May 2026 – Aug. 2026_
+
+  Agentic Reinforcement Learning, Mixture of Experts
+
 * **Zhipu AI**, Research Scientist, _Sep. 2024 – Jun. 2025_
 
   Mixture of Experts, LLM Pretraining
