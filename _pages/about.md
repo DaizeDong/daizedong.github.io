@@ -17,6 +17,7 @@ My research focuses on improving the efficiency of neural networks across algori
 
 ### News
 
+- [2026/05] Started a summer internship at [AMD](https://www.amd.com/), working on Agentic RL and Mixture of Experts!
 - [2025/09] Joined [Rutgers University, New Brunswick](https://www.rutgers.edu/new-brunswick) as a Ph.D. student!
 
 [//]: # (## Service)
