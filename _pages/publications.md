@@ -19,4 +19,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 ## Preprints
 
-None for now.
+1. **Daize Dong**, Junlin Chen, Haolong Jia, Jiawei Wu, Huanwei Di, Jiang Liu, Jialian Wu, Zhengzhong Liu, Zicheng Liu, Emad Barsoum, Dimitris N. Metaxas, Hongyi Wang, PR2: Predictive Routing Replay for MoE-Based LLM Reinforcement Learning, arXiv 2026. [[Paper](https://arxiv.org/abs/2606.00395)]
