@@ -16,4 +16,4 @@ jobs:
           REPO: ${{ github.repository }}
           ISSUE: ${{ github.event.issue.number }}
         run: |
-          gh issue edit "$ISSUE" --add-label "spam" && gh issue close "$ISSUE" -c "Closing automatically because this appears to be a test issue." -r "not planned" && 
+          gh issue edit "$ISSUE" --add-label "spam" && gh issue close "$ISSUE" -c "Closing automatically because this appears to be a test issue." -r "not planned"
