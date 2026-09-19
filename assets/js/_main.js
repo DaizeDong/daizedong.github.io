@@ -25,12 +25,10 @@ function determineComputedTheme() {
   return browserPref ? "dark" : "light";
 }
 
-// Set the theme on page load or when explicitly called
+// Set the theme on page load or when explicitly called. Without an argument the
+// theme is the stored preference or, failing that, the OS/browser preference.
 function setTheme(theme) {
-  const use_theme = theme ||
-    localStorage.getItem("theme") ||
-    $("html").attr("data-theme") ||
-    browserPref;
+  const use_theme = theme || determineComputedTheme();
 
   if (use_theme === "dark") {
     $("html").attr("data-theme", "dark");
