@@ -12,6 +12,19 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% comment %}
+  site.pages contains every file Jekyll processes that has front matter, which
+  includes build artefacts (main.css, manifest.json, feed.xml, robots.txt) and the
+  redirect stubs jekyll-redirect-from generates. None of those have a title, so
+  rendering them emits <h2><a href=...></a></h2>: an empty heading wrapping an
+  anchor with no accessible name. One DOM node, two WCAG failures (empty-heading
+  and link-name), which is why an axe report shows identical counts for both on
+  exactly the pages that loop over site.pages.
+  Guarding here rather than at each {% for %} is deliberate: every archive listing
+  on the site goes through this include, so a future archive page cannot reintroduce it.
+{% endcomment %}
+{% assign archive_title = title | strip %}
+{% if archive_title != "" %}
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -82,3 +95,4 @@
 
   </article>
 </div>
+{% endif %}

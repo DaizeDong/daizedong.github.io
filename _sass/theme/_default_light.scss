@@ -27,6 +27,10 @@ $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Default light theme for the site */
+// Every colour below is asserted by tools/check_contrast.py, which COMPILES this
+// file rather than reading it. That matters: mix() written outside #{} emits the
+// literal string "mix(...)" into the CSS, which is not a CSS function, so the
+// property is invalid and falls back silently while the source still looks right.
 :root {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #fff;
@@ -35,14 +39,14 @@ $sidebar-screen-min-width   : 1024px;
     --global-dark-border-color          : #bdc1c4;
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-gray};
-    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
-    --global-link-color                 : #52adc8;
-    --global-link-color-hover           : mix(#000, #2f7f93, 25%);
-    --global-link-color-visited         : mix(#fff, #2f7f93, 25%);  
+    --global-fig-caption-color          : #{mix(#fff, $dark-gray, 15%)};  // #64696c, 5.56:1
+    --global-link-color                 : #2c7a8c;  // 4.92:1 on #fff (was #52adc8, 2.57:1)
+    --global-link-color-hover           : #{mix(#000, $primary-color, 25%)};  // #235f6e, 7.16:1
+    --global-link-color-visited         : #{mix(#000, $primary-color, 30%)};  // #215967, 7.81:1
     --global-masthead-link-color        : #{$dark-gray};
-    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
+    --global-masthead-link-color-hover  : #{mix(#000, $gray, 25%)};  // #5c6266, 6.19:1
     --global-text-color                 : #{$dark-gray};
-    --global-text-color-light           : #{$light-gray};
+    --global-text-color-light           : #666b70;  // 5.38:1 on #fff, 4.84:1 on footer #f2f3f3 (was #bdc1c4, 1.83 / 1.65)
     --global-thead-color                : #{$lighter-gray};
 }
 

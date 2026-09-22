@@ -13,9 +13,12 @@ $background                 : #474747;
 $background-light           : mix(#fff, $background, 80%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #ffffff;
-$link                       : #0ea1c5;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+$link                       : #6fd0e6;  // 5.24:1 on #474747 (was #0ea1c5, 3.06:1)
+// Hover must go LIGHTER here. The upstream mix(#000, $link, 25%) darkens an
+// already-dark colour on a dark background and lands at 1.85:1, so hovering a
+// link made it harder to read than not hovering it.
+$link-dark                  : mix(#fff, $link, 30%);  // #9adeee, 6.22:1
+$link-light                 : #cbbcf0;  // 5.31:1, shifted violet so visited reads as visited
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;

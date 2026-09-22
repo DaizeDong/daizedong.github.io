@@ -19,7 +19,7 @@ You can find more of my projects on my [GitHub Page](https://github.com/DaizeDon
 
 ## Other Stuff
 
-* **ChatGPT ArXiv Paper Assistant** [\[GitHub\]](https://github.com/DaizeDong/ChatGPT-ArXiv-Paper-Assistant)
+* **Daily ArXiv Assistant** [\[GitHub\]](https://github.com/DaizeDong/Daily-ArXiv-Assistant)
 
   A ChatGPT/Gemini/DeepSeek based personalized arXiv paper assistant bot for automatic paper filtering.
 
