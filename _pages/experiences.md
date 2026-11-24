@@ -8,7 +8,7 @@ author_profile: true
 
   Agentic Reinforcement Learning, Mixture of Experts
 
-* **Zhipu AI**, Research Scientist, _Sep. 2024 – Jun. 2025_
+* **Z.AI (Zhipu AI)**, Research Scientist, _Sep. 2024 – Jun. 2025_
 
   Mixture of Experts, LLM Pretraining
 
