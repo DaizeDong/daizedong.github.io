@@ -4,7 +4,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-* **AMD**, Research Intern, _May 2026 – Aug. 2026_
+* **AMD**, Research Intern, _May 2026 – Present_
 
   Agentic Reinforcement Learning, Mixture of Experts
 
